@@ -13,8 +13,37 @@ This project integrates:
 - Machine Learning
 - Robotic Actuation
 - IoT Connectivity
+---
+
+## 📄 Abstract
+
+IMPULSE FLEXOMIND is a non-invasive Brain–Computer Interface (BCI) based prosthetic arm system designed to restore upper-limb functionality for individuals with motor impairments.
+
+The system captures EEG signals using a BioAmp-based acquisition setup, processes neural intent through signal conditioning and classification, and translates user thoughts into real-time prosthetic arm movements via embedded motor control.
+
+This project bridges neuroscience, machine learning, embedded systems, and biomechatronics to create an affordable and modular assistive solution.
 
 ---
+
+## 🎯 Problem Statement
+
+Conventional prosthetic systems rely on:
+
+- Mechanical harness mechanisms  
+- Surface EMG muscle-based control  
+- Predefined trigger-based motions  
+
+### Limitations:
+- Limited degrees of freedom  
+- High physical effort  
+- High cost  
+- Low intuitiveness  
+- Minimal neural integration  
+
+IMPULSE FLEXOMIND addresses these gaps using direct EEG-based neural intent decoding.
+
+---
+
 
 ## 🎯 Objectives
 - Develop a non-invasive EEG-based prosthetic control system
